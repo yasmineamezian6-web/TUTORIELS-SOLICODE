@@ -1,2 +1,1 @@
-![alt text](image.png)
-        
+![alt text](Tuto-6.png)
