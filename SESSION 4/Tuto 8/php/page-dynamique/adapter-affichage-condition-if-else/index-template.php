@@ -80,7 +80,11 @@
 
                 <?php if ($article['id'] == 1): ?>
 
-                   
+                    <p>
+                        <small class="badge-special">
+                            ⭐ À la une
+                        </small>
+                    </p>
 
                 <?php endif; ?>
 
